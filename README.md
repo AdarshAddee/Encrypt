@@ -12,6 +12,15 @@ apt-get install git -y
 <pre>
 git clone https://github.com/adarshaddee/Encrypt.git
 </pre>
+<pre>
+cd Encrypt
+</pre>
+<pre>
+chmod +x encrypt.sh
+</pre>
+<pre>
+./encrypt.sh
+</pre>
 
 # One-line Installation
 <pre>
