@@ -40,7 +40,8 @@ sleep 1.5
 echo
 echo
 
-echo "                              YOUTUBE: MR IDEAL"
+echo "                             YOUTUBE: MR IDEAL"
+sleep 1
 echo "                            YOUTUBE: MR IDEALHAT"
 echo
 echo
